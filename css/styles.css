@@ -4,10 +4,18 @@
 h2{
     color: blue;
     text-align: center;
+    font-family: 'EB Garamond', serif;
 }
 p{
     font-family: 'Nunito', sans-serif;
+    text-align: justify;
+   
+    
 
+}
+.justify{
+    margin-left: 40px;
+    margin-right: 40px;
 }
 /* _______________________________________________________________________------------------- */
 .container1{
@@ -16,8 +24,10 @@ p{
     flex-direction: column;
 
 }
-.container1 h3{
+h3{
     color: red;
+    margin-left: 20px;
+    
 }
 .container1 a{
     margin-left: 1100px;
@@ -45,69 +55,98 @@ p{
 }
 
 /* ----------------------------------------------------- */
-.container2{
-    border: solid blue;
+
+ul{
+    margin-left:100px ;
+    font-family: 'Roboto Slab', serif;
+    list-style-type: circle
 }
 
 /* ----------------------------------------------------- */
-.container3{
-    border: solid green;
+
+
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
+.container5 p{
+    font-family: 'EB Garamond', serif;
+    font-size:20px;
+    margin-left:30px ;
+    margin-right: 30px;
 }
 
 /* ----------------------------------------------------- */
-.container4{
-    border: solid green;
+.container6 li{
+    font-family: 'Anton', sans-serif;
 }
 
 /* ----------------------------------------------------- */
-.container5{
-    border: solid green;
+.container7 p{
+    margin-left: 40px;
+    margin-right:40px ;
 }
 
 /* ----------------------------------------------------- */
-.container6{
-    border: solid green;
+.container8 p{
+    margin-left: 40px;
+    margin-right:40px ;
 }
 
 /* ----------------------------------------------------- */
-.container7{
-    border: solid green;
-}
-
-/* ----------------------------------------------------- */
-.container8{
-    border: solid green;
-}
-
-/* ----------------------------------------------------- */
-.container9{
-    border: solid green;
-}
 
 /* ----------------------------------------------------- */
 .container10{
-    border: solid green;
+    display: flex;
+    flex-direction: column;
+}
+.container10 p {
+    margin-left: 40px;
+    margin-right:40px ;
+}
+.container10 table{
+    margin: 50px;
+    font-family: 'Nunito', sans-serif;
+    text-align: justify;
 }
 
+
+
+
 /* ----------------------------------------------------- */
-.container11{
-    border: solid green;
+.container13 h3{
     
+    text-align: center;
 }
+.container13 {
+    display: flex;
+    flex-direction: column;
 
-/* ----------------------------------------------------- */
-.container12{
-    border: solid green;
 }
-
-/* ----------------------------------------------------- */
-.container13{
-    border: solid green;
+.container13 table {
+    margin-left: 350px;
+    margin-right: 350px;
+    font-family: 'Nunito', sans-serif;
+    text-align: justify;
+}
+.title{
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    color: antiquewhite;
+}
+.bornTitle{
+    background-color: rgb(175, 39, 39);
+}
+.bornBody{
+    background-color:rgba(175, 39, 39, 0.651) ;
+}
+.btnDownload{
+    text-decoration:none;
 }
 
 /* ----------------------------------------------------- */
 .container14{
-    border: solid green;
+    margin-top: 30px;
+    text-align: center;
 }
 
 /* ----------------------------------------------------- */
