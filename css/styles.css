@@ -1,3 +1,114 @@
 *{
-    background-color: rgb(201, 222, 236);
+    background-color: rgba(205, 211, 214, 0.979);
 }
+h2{
+    color: blue;
+    text-align: center;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+
+}
+/* _______________________________________________________________________------------------- */
+.container1{
+   
+    display: flex;
+    flex-direction: column;
+
+}
+.container1 h3{
+    color: red;
+}
+.container1 a{
+    margin-left: 1100px;
+}
+.containerTable{
+    
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-right: 230px;
+}
+.wrap{
+    flex: 2;
+    
+}
+.bor1 {
+    padding-left: 10px;
+    background-color: rgb(172, 34, 34);
+    color: antiquewhite;
+}
+.bor2{
+    padding-left: 10px;
+    background-color: rgba(172, 34, 34, 0.616);
+    color: antiquewhite;
+}
+
+/* ----------------------------------------------------- */
+.container2{
+    border: solid blue;
+}
+
+/* ----------------------------------------------------- */
+.container3{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container4{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container5{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container6{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container7{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container8{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container9{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container10{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container11{
+    border: solid green;
+    
+}
+
+/* ----------------------------------------------------- */
+.container12{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container13{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+.container14{
+    border: solid green;
+}
+
+/* ----------------------------------------------------- */
+    
