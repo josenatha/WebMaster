@@ -329,7 +329,7 @@ justify-content:space-between;
     height: 300px;
     color: #000;
     text-align: justify;
-    overflow-y: scroll;
+    
     right: 30px;
     bottom: 40px;
     position: fixed;
@@ -355,4 +355,14 @@ justify-content:space-between;
 .mari{
     width: 155px;
     height: 240px;
+}
+.lavel{
+    text-decoration: none;
+    
+}
+.lavelcolor{
+    color: #000;
+}
+.over{
+    overflow-y: scroll;
 }
