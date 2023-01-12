@@ -366,3 +366,8 @@ justify-content:space-between;
 .over{
     overflow-y: scroll;
 }
+.mer{
+    top: 10px;
+    width: 155px;
+    height: 200px;
+}
